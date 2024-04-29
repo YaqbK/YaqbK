@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrLyzk
+- 👋 Hi, I’m @YaqbK
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning how to code in python
 - 💞️ I’m looking to collaborate on my very first project
