@@ -2,7 +2,7 @@
 - 🤖 Automatic Control and Robotics student at PUT Poznań
 - 👀 interested in programming
 - 🌱 currently learning how to code in C++
-- 💞️ looking forward to working on the next project
+- 💞️ looking forward to work on the next project
 - 📫 How to reach me: kkrusicki@gmail.com
 
 <!---
