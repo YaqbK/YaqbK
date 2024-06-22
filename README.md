@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @YaqbK
 - 🤖 Automatic Control and Robotics student at PUT Poznań
 - 👀 interested in programming
-- 🌱 currently learning how to code in C++
-- 💞️ looking forward to work on the next project
+- 💞️ looking forward to work on the next project using C++ or Python
 - 📫 How to reach me: kkrusicki@gmail.com
 
 <!---
